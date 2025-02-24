@@ -62,10 +62,10 @@ FocusRoulette uses an **adaptive weighted random selection** to pick my focus ar
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/FocusRoulette.git
+git clone https://github.com/DeveloperDowny/focus-roulette.git
 
 # Navigate into the directory
-cd FocusRoulette
+cd focus-roulette
 
 # Run the application
 python main.py
