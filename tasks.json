@@ -1,0 +1,58 @@
+{
+  "tasks": {
+    "Leader in Community": {
+      "base_weight": 1.0,
+      "current_weight": 1.0,
+      "cooldown": 2,
+      "last_selected": null
+    },
+    "DSA": {
+      "base_weight": 5.0,
+      "current_weight": 0.5,
+      "cooldown": 2,
+      "last_selected": "2025-02-25T00:22:44.051423"
+    },
+    "Indie Hacking": {
+      "base_weight": 4.0,
+      "current_weight": 4.0,
+      "cooldown": 2,
+      "last_selected": null
+    },
+    "Chill": {
+      "base_weight": 1.0,
+      "current_weight": 1.0,
+      "cooldown": 3,
+      "last_selected": null
+    },
+    "Showcasing": {
+      "base_weight": 2.0,
+      "current_weight": 0.2,
+      "cooldown": 2,
+      "last_selected": "2025-02-25T00:23:07.981881"
+    },
+    "Hobbies": {
+      "base_weight": 1.0,
+      "current_weight": 1.0,
+      "cooldown": 3,
+      "last_selected": null
+    },
+    "Marketing": {
+      "base_weight": 2.0,
+      "current_weight": 2.0,
+      "cooldown": 2,
+      "last_selected": null
+    }
+  },
+  "history": [
+    {
+      "task": "DSA",
+      "timestamp": "2025-02-25T00:22:44.051442",
+      "weight_used": 5.0
+    },
+    {
+      "task": "Showcasing",
+      "timestamp": "2025-02-25T00:23:07.981900",
+      "weight_used": 2.0
+    }
+  ]
+}
